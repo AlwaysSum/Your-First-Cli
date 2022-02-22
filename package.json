@@ -1,0 +1,33 @@
+{
+  "name": "@sunflower816/first-cli",
+  "version": "1.0.0",
+  "description": "我的第一个cli项目",
+  "main": "index.js",
+  "author": "sunflower816",
+  "bin": {
+    "mgc-cli": "bin/main.js"
+  },
+  "devDependencies": {
+    "commander": "^8.3.0",
+    "fs-extra": "^10.0.0",
+    "git-clone": "^0.2.0",
+    "inquirer": "^8.2.0",
+    "shelljs": "^0.8.5",
+    "tracer": "^1.1.5"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AlwaysSum/Your-First-Cli.git"
+  },
+  "keywords": [
+    "cli"
+  ],
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AlwaysSum/Your-First-Cli/issues"
+  },
+  "homepage": "https://github.com/AlwaysSum/Your-First-Cli#readme"
+}
