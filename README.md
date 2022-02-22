@@ -17,7 +17,7 @@ sudo npm link
 # 3、调用命令
 
 ```
-buluke create my-demo
+mgc-cli create my-demo
 ```
 
 
